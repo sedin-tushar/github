@@ -6,6 +6,7 @@ author:: "Delhivery"
 article_url:: "https://www.moneycontrol.com/news/business/delhivery-acquires-spoton-to-boost-b2b-capabilities-7388171.html"
 summary:: "RTO predictor solution enables over 4800 D2C companies to reduce logistic cost by assessing return risk."
 isSummaryButton:: "true"
+previewImage:: ![Delhivery Banner](https://github.com/user-attachments/assets/678fa1c8-a8bd-418c-88ee-f3d04be4cfa9)
 bannerImage:: ![Delhivery Banner](https://github.com/user-attachments/assets/678fa1c8-a8bd-418c-88ee-f3d04be4cfa9)
 -----
 <br></br>
