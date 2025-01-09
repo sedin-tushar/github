@@ -17,5 +17,5 @@ The company is eyeing an IPO at a $4 billion valuation early next year.
 TESting :
 
 BOLD: **bold TEST**
-ITALIC_ ITALIC_
+ITALIC _ ITALIC_
 ![image](https://github.com/user-attachments/assets/8ed866da-9d94-432d-b29b-449de0617efe)
