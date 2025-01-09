@@ -11,7 +11,7 @@ summary:: "RTO predictor solution enables over 4800 D2C companies to reduce logi
 The solution has already successfully enabled over 4800 e-commerce businesses, counting notable brands such as Heads up for Tails, Healthkart, W for Woman, Be Minimalist, and Kapiva, to reduce their RTO (Return to Origin) shipments for cash on delivery orders, significantly improving margins for its clients.
 <br></br>
 The RTO predictor service, introduced earlier this year, will be available for all D2C brands across all their sales channels like Shopify, WooCommerce, etc., regardless of the shipping partner they use to deliver orders. Brands can also integrate RTO prediction during checkout stage and hide COD shipping or charge shipping fees for consignees with high return risk.
-<br>
+<br/>
 Returns for cash-on-delivery orders significantly impact businesses' bottom lines, as companies pay twice for logistics services without making a sale. COD orders constitute more than 60% of eCommerce orders in India, and Delhivery's RTO Predictor helps reduce RTOs by up to 20%. Delhivery has been acknowledged as India’s most preferred D2C third-party logistics provider by Redseer and continues to add several value-added services to its suite since the launch of its integrated digital shipping solution, Delhivery One.
 
 <br/>
