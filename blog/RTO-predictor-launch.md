@@ -8,7 +8,7 @@ summary:: "RTO predictor solution enables over 4800 D2C companies to reduce logi
 -----
 **Gurgaon** : RTO (Return to Origin) Predictor, an AI-led solution developed by Delhivery, India's largest fully integrated logistics service provider, will significantly reduce risk of returns, solving a major pain point for D2C brands.
 
-
+\n
 The solution has already successfully enabled over 4800 e-commerce businesses, counting notable brands such as Heads up for Tails, Healthkart, W for Woman, Be Minimalist, and Kapiva, to reduce their RTO (Return to Origin) shipments for cash on delivery orders, significantly improving margins for its clients.
 
 
