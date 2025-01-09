@@ -19,9 +19,8 @@ Returns for cash-on-delivery orders significantly impact businesses' bottom line
 
 <br></br>
 **Nikhil Vij, Head of Product at Delhivery**, said, "Dellhivery’s RTO predictor uses machine learning to assess the risk of return and non-acceptance of delivery that sellers face by mining the trove of data already available from 2.5 billion delivered shipments since inception, our nationwide coverage, and location intelligence solutions. This enables us to predict customer behavior with far higher accuracy. Our clients receive valuable insights on customer intent on their COD (cash on delivery) orders."
-
-<br></br>
+<br/>
 **Harsh Gupta, Supply Chain Head at Minimalist**, endorsed the service, stating, "The one thing that hurts a D2C brand the most is RTO. Delhivery's RTO predictor helped us navigate this journey of RTO reduction with better conversions."
+<br>
 
-<br></br>
 **Sugam Arora, Head of Logistics and Customer Experience at W for Women said**: "With Delhivery's RTO predictor service, which we used during the pilot phase, we were able to take quick calls to verify COD orders and take necessary actions, making it easy to understand the customer profile. This has helped us reduce our overall RTO from 8.2% to 7.47%, resulting in increased conversions and lower logistics costs."
