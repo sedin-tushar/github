@@ -13,13 +13,12 @@ The solution has already successfully enabled over 4800 e-commerce businesses, c
 
 <br></br>
 The RTO predictor service, introduced earlier this year, will be available for all D2C brands across all their sales channels like Shopify, WooCommerce, etc., regardless of the shipping partner they use to deliver orders. Brands can also integrate RTO prediction during checkout stage and hide COD shipping or charge shipping fees for consignees with high return risk.
-
-<br></br>
+<br>
 Returns for cash-on-delivery orders significantly impact businesses' bottom lines, as companies pay twice for logistics services without making a sale. COD orders constitute more than 60% of eCommerce orders in India, and Delhivery's RTO Predictor helps reduce RTOs by up to 20%. Delhivery has been acknowledged as India’s most preferred D2C third-party logistics provider by Redseer and continues to add several value-added services to its suite since the launch of its integrated digital shipping solution, Delhivery One.
 
-<br></br>
+<br>
 **Nikhil Vij, Head of Product at Delhivery**, said, "Dellhivery’s RTO predictor uses machine learning to assess the risk of return and non-acceptance of delivery that sellers face by mining the trove of data already available from 2.5 billion delivered shipments since inception, our nationwide coverage, and location intelligence solutions. This enables us to predict customer behavior with far higher accuracy. Our clients receive valuable insights on customer intent on their COD (cash on delivery) orders."
-<br/>
+<br>
 **Harsh Gupta, Supply Chain Head at Minimalist**, endorsed the service, stating, "The one thing that hurts a D2C brand the most is RTO. Delhivery's RTO predictor helped us navigate this journey of RTO reduction with better conversions."
 <br>
 
