@@ -6,7 +6,7 @@ author:: "Delhivery"
 article_url:: "https://www.moneycontrol.com/news/business/delhivery-acquires-spoton-to-boost-b2b-capabilities-7388171.html"
 summary:: "RTO predictor solution enables over 4800 D2C companies to reduce logistic cost by assessing return risk."
 isSummaryButton:: "true"
-Bannerimage: ![image](https://github.com/user-attachments/assets/678fa1c8-a8bd-418c-88ee-f3d04be4cfa9)
+bannerImage: ![image](https://github.com/user-attachments/assets/678fa1c8-a8bd-418c-88ee-f3d04be4cfa9)
 -----
 <br></br>
 **Gurgaon** : RTO (Return to Origin) Predictor, an AI-led solution developed by Delhivery, India's largest fully integrated logistics service provider, will significantly reduce risk of returns, solving a major pain point for D2C brands.
