@@ -7,6 +7,7 @@ article_url:: "https://www.moneycontrol.com/news/business/delhivery-acquires-spo
 summary:: "RTO predictor solution enables over 4800 D2C companies to reduce logistic cost by assessing return risk."
 isSummaryButton:: "true"
 -----
+<p>hhjj</p>
 **Gurgaon** : RTO (Return to Origin) Predictor, an AI-led solution developed by Delhivery, India's largest fully integrated logistics service provider, will significantly reduce risk of returns, solving a major pain point for D2C brands.
 <br></br>
 The solution has already successfully enabled over 4800 e-commerce businesses, counting notable brands such as Heads up for Tails, Healthkart, W for Woman, Be Minimalist, and Kapiva, to reduce their RTO (Return to Origin) shipments for cash on delivery orders, significantly improving margins for its clients.
